@@ -1,6 +1,6 @@
 # SnakeBox
 
-Looking into some University of Waterloo admissions information
+Looking into some University of Waterloo admissions information for 2020
 
 -Pandas to read in csv and create the dataframes
 
@@ -18,3 +18,7 @@ Looking into some University of Waterloo admissions information
 2. Input information as the program requires (If field is not applicable, put a 0)
 
 3. Close the window and the program will plot
+
+4. The displayed percentage is an approximate "chance" one would get into the program
+
+Note: The dataset (2019 and 2020) is mainly people who have successfully been accepted
