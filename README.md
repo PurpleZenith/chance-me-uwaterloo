@@ -2,13 +2,13 @@
 
 Looking into some University of Waterloo admissions information for 2020
 
--Pandas to read in csv and create the dataframes
+- Pandas to read in csv and create the dataframes
 
--Numpy for polynomial fitting, and determining the integral based on dataframe's size
+- Numpy for polynomial fitting, and determining the integral based on dataframe's size
 
--Tkinter for UI
+- Tkinter for UI
 
--Matplotlib for data visualization
+- Matplotlib for data visualization
 
 
 ### How to use
