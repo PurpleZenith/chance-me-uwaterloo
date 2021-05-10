@@ -1,4 +1,4 @@
-# UWChanceMe (formerly SnakeBox)
+# Chance Me UWaterloo (formerly SnakeBox)
 
 Looking into some University of Waterloo admissions information for 2020
 
